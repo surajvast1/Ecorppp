@@ -1,0 +1,16 @@
+h5{
+    color: #be8c17;
+    margin-bottom: 60px;
+}
+.box{
+    /* margin-right: 100px; */
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link{
+    color: rgb(255, 254, 254);
+}
+.nav-link:hover{
+    color: yellowgreen;
+}
+
